@@ -7,9 +7,6 @@
     <link rel="stylesheet" href="main.css">
 </head>
 <body>
-
-
-test
  
 <table class="resultat-box">
     
