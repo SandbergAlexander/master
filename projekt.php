@@ -5,21 +5,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Quiz</title>
     <link rel="stylesheet" href="main.css">
- 
 </head>
- 
 <body>
-
-
- <article> Alexander hemsida Lorem ipsum dolor sit, amet consectetur adipisicing elit. Harum exercitationem ea accusamus delectus aliquam fugit neque tenetur nulla voluptate voluptatem sapiente voluptas repellat commodi maiores dolores, sint voluptatibus omnis quis.</article>
-
+ <header>
+<body>
+<?php include "include/Huvudmeny.php"?>
+</header>
+ <main>
+ </main>
 <footer>
     <p>&copy; 2026 Alexander Sandberg. Alla rättigheter förbehållna.</p>
-</footer>
-
-</form>
-
-
-    
+</footer>   
 </body>
 </html>

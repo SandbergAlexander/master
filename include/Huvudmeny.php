@@ -1,10 +1,10 @@
  <header>
     <nav aria-label="Huvudmeny">
         <ul>
-            <li><a href="/">Hem</a></li>
-            <li><a href="/sidor/frågor.html">Kunskapsquiz</a> </li>
-            <li><a href="/sidor/projekt.html">Projekt</a></li>
-            <li><a href="/sidor/#">Kontakt</a></li>
+            <a href="/">Hem</a>
+            <a href="/frågor.html">Kunskapsquiz</a> 
+            <a href="/projekt.php">Projekt</a>
+            <a href="/#">Kontakt</a>
         </ul>
     </nav>
 </header>

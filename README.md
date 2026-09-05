@@ -9,7 +9,7 @@
 - [x] 4. Skissa layout/design
 
 ### Databas
-- [ ] 5. Skapa databas
+- [x] 5. Skapa databas
 - [ ] 6. Skapa tabeller
 - [ ] 7. Skapa relationer mellan tabeller
 - [ ] 8. Lägg till testdata
